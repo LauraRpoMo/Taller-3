@@ -42,3 +42,10 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+.nav-links {
+    display: flex;
+    gap: 50px;
+    justify-content:end;
+}
+
